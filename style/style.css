@@ -187,7 +187,7 @@ div .persenteg-lite h4{
     align-items: center;
     width: 1140px;
     height: 632px;
-    margin: 100px auto;
+    margin: 0 auto;
 }
 .from-lite1{
     font-size: 56px;
@@ -242,3 +242,29 @@ div .persenteg-lite h4{
  .button4:hover{
   background-color: deepskyblue;
  }
+/* <!--Free verson--> */
+.free-verson{
+    height: 696px;
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.imgfree{
+    height: 364px;
+    width: 840px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.free-tital{
+    font-size: 50px;
+    font-weight: bold;
+}
+.free-dis{
+    margin-top: 0px;
+    color: rgba(0, 0, 0, 0.589);
+}
+.button5{
+    width: 132px;
+    height: 40px;
+}
