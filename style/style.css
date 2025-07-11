@@ -119,4 +119,63 @@ div .persenteg-lite h4{
     margin: 10px;
     color: #0000007e;
 }
+/* <!--Reviewer--> */
+.reviewer-w{
+    height: 342px;
+    width: 1140px;
+    margin: 0 auto;
+    /* background-color: white; */
+    padding: 24px 24px;
+}
+.bow{
+    display: flex;
+    justify-content: space-around;
+}
+.star{
+    padding-top: 10px;
+    padding-left: 24px;
+}
+.reviewer-tital{
+    margin-bottom: 35px ;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.reviewer-photo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 24px;
+}
+.hinata-w-h, .mikasa-w-h, .konan-w-h{
+ width: 40px;
+ height: 40px;
+}
 
+.reviewer-photo img{
+    border-radius: 10px;
+    padding: 10px;
+}
+.reviewer-photo h3{
+    margin: 0px;
+}
+.reviewer-photo h3 ,data{
+    color: rgba(0, 0, 0, 0.5);
+}
+.reviewer{
+    height: 243px;
+    width: 366.67px;
+    border-color: beige;
+    background-color: rgba(255, 255, 255, 0.521);
+    box-shadow: 5px 6px 30px 0px #F2EDED;
+    border-radius: 10px;
+}
+.reviewer-text{
+    width: 318px;
+    height: 81px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+}
+.reviewer-text h3{
+    color: rgba(0, 0, 0, 0.534);
+}
