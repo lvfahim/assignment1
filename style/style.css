@@ -268,3 +268,8 @@ div .persenteg-lite h4{
     width: 132px;
     height: 40px;
 }
+@media screen and (max-width: 576px) {
+    .from{
+        height: 100%;
+    }
+}
